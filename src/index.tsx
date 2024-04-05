@@ -5,7 +5,7 @@ import App from "./App";
 
 const container = document.getElementById("root") as HTMLElement;
 const root = createRoot(container);
-// fghj
+
 root.render(
   <React.StrictMode>
     <App />
